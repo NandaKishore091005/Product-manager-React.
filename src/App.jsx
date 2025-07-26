@@ -1,3 +1,5 @@
+// Product Card Generator
+
 import React, {useState,useEffect} from 'react'
 import {Check, Edit2, Image, Package, Plus, X} from 'lucide-react';
 import './index.css'
@@ -190,5 +192,3 @@ function App() {
 }
 
 export default App
-
-// This is code done ny mruh students
